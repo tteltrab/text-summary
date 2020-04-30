@@ -6,7 +6,7 @@ Check out the DEMO of [summarize.world](http://summarize.world)
 
 This module provides an API for making summary of text.
 
-The solution is based on the [https://en.wikipedia.org/wiki/PageRank](PageRank Algorithm).
+The solution is based on the [PageRank Algorithm](https://en.wikipedia.org/wiki/PageRank).
 
 ## Example
 
